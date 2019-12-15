@@ -47,7 +47,7 @@
   "pages": {
     "video.html": {
       "settings": {
-        "meta_descr": "Web Page Generator Description",
+        "meta_descr": "TravelWithMe Videos",
         "title": "Videos",
         "order": 1
       },
@@ -537,7 +537,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Main Page",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1153,7 +1153,7 @@
     },
     "Photo3.html": {
       "settings": {
-        "meta_descr": "Website Creator Description",
+        "meta_descr": "Our Photos",
         "title": "Photos 3 page",
         "order": 2
       },
@@ -1881,7 +1881,7 @@
     },
     "photo2.html": {
       "settings": {
-        "meta_descr": "Web Site Maker Description",
+        "meta_descr": "Our Photos",
         "title": "Photos 2 page",
         "order": 3
       },
@@ -2609,7 +2609,7 @@
     },
     "photo1.html": {
       "settings": {
-        "meta_descr": "Website Creator Description",
+        "meta_descr": "Our Photos",
         "title": "Photos 1 page",
         "order": 4
       },
@@ -3337,7 +3337,7 @@
     },
     "logwa.html": {
       "settings": {
-        "meta_descr": "Web Site Creator Description",
+        "meta_descr": "WhatsApp login",
         "title": "Group loggin",
         "order": 5
       },
