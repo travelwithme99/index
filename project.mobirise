@@ -41,7 +41,7 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": true,
     "siteUrl": "",
-    "noImageResize": "true",
+    "noImageResize": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
