@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TravelWithMe",
-    "currentPage": "home.html",
+    "currentPage": "amb.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -5182,7 +5182,7 @@
             }
           },
           "_name": "map1",
-          "_customHTML": "<section class=\"map1\" group=\"Maps\">\n\n    <mbr-parameters>   \n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"map\" title=\"Map\" name=\"googleMap\">   \n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"google-map\" mbr-map=\"googleMap\">\n    </div>\n</section>",
+          "_customHTML": "<section class=\"map1\" group=\"Maps\">\n\n    <mbr-parameters>   \n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"ChIJhY4aMvlx4zoR8fF-_HTrnhc\" value=\"Ambuluwawa, Sri lanka\">   \n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"google-map\" mbr-map=\"googleMap\">\n    </div>\n</section>",
           "_cid": "rKPKOWS7Qr",
           "_anchor": "map1-2q",
           "_protectedParams": [],
