@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TravelWithMe",
-    "currentPage": "home.html",
+    "currentPage": "destinations.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2140,7 +2140,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"gaphoto1.html\" data-app-placeholder=\"Type Text\">Galaboda</a>\n                    <a class=\"btn btn-primary\" href=\"page10.html\" data-app-placeholder=\"Type Text\">Udawatta Forest</a> <a class=\"btn btn-black-outline\" href=\"amb.html\" data-app-placeholder=\"Type Text\">Ambuluwawa</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"gaphoto1.html\" data-app-placeholder=\"Type Text\">Galaboda</a>\n                    <a class=\"btn btn-primary\" href=\"ukphoto1.html\" data-app-placeholder=\"Type Text\">Udawatta Forest</a> <a class=\"btn btn-black-outline\" href=\"amb.html\" data-app-placeholder=\"Type Text\">Ambuluwawa</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rKK6GVQWol",
           "_anchor": "content8-1y",
           "_protectedParams": [],
